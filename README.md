@@ -1,7 +1,6 @@
-# DSA Labs
+# Data Structures & Algorithms Labs
  
-**Name:** Bilal Ahmed
-**Registration Number:** 573512
+**Student:** Bilal Ahmed
 **Class:** BSCS-15D
  
 ---
