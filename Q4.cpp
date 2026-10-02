@@ -1,6 +1,6 @@
 // Name: Bilal Ahmed
 // Registration No: 573512
-// Section: ______
+// Section: D
 
 #include <iostream>
 using namespace std;
