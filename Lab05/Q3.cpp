@@ -2,7 +2,6 @@
 // Registration No: 573512
 // Section: D
 // Lab 05 - Task 3
-// AI assistance was used to check the program.
 
 #include<iostream>
 using namespace std;
