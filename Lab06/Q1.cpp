@@ -2,7 +2,6 @@
 // Registration No: 573512
 // Section: D
 // DSA Lab 06 Task 1
-// Code prepared with ChatGPT assistance
 
 #include<iostream>
 using namespace std;
